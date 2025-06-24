@@ -1,2 +1,2 @@
 # WebProject
-Mealify
+Project
